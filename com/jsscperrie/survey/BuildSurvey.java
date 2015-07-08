@@ -171,7 +171,6 @@ public class BuildSurvey {
     	            System.exit(0);
     	        } else {
     	        	System.out.println("DON't CLOSE");
-    	        	frame.setVisible(true);
     	        }
     	    }
     	});
